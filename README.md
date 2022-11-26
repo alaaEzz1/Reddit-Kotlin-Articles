@@ -1,12 +1,11 @@
 # Reddit-Kotlin-Articles
-## in this app used api from reeddit kotlin topics
+## In this app I used api from reeddit kotlin topics and showing it in android application
 
 ### App Features
 - get data from reddit api
 - bbeautiful text animation
-- auto resize image when move between screens
 - save last change in api in local or Room database
-- app work offline adter first time
+- app work offline after first time
 - check internet connection
 - see full article in its source
 
