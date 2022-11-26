@@ -3,10 +3,11 @@
 
 ### App Features
 - get data from reddit api
-- bbeautiful text animation
+- beautiful text animation
 - save last change in api in local or Room database
 - app work offline after first time
 - check internet connection
+- title, Picture if it exists and body in Article detailes screen
 - see full article in its source
 
 ### used Technologies and Dependencies
